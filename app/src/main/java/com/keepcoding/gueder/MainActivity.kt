@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
  //       {
  //           outState.putString("clave","valor")
  //       }
-        
+
 
         outState?.putString("clave","valor")
 
